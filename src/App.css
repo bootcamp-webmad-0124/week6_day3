@@ -1,0 +1,9 @@
+img {
+  width: 100%;
+}
+
+.hero {
+  text-align: center;
+  padding: 100px 0;
+  background-color: #ff9b9b;
+}
